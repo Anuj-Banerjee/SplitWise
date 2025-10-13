@@ -3,7 +3,7 @@
 **AI-powered, real-time expense & settlement platform for groups and individuals.**
 Keep shared spending tidy: clean net balances, directional settlements, automated reminders and AI monthly insights.
 
-[🌐 Live Demo](https://smartsplit-lakshit.vercel.app) • [License](#license) • [LinkedIn](https://www.linkedin.com/in/jainlakshit)
+[🌐 Live Demo](https://smartsplit-lakshit.vercel.app) • [License](#license) • [LinkedIn](https://www.linkedin.com/in/anuj-banerjee/)
 
 ---
 
@@ -150,7 +150,7 @@ Key note: settlement logic lives in Convex mutations — server authoritative. U
 ### 1. Clone
 
 ```bash
-git clone https://github.com/lakshitcodes/smart-split.git
+git clone https://github.com/Anuj-Banerjee/SplitWise.git
 cd smart-split
 ```
 
@@ -251,8 +251,8 @@ Please run lint and verify no runtime errors before requesting review.
 
 ## Contact
 
-**Author:** Lakshit Jain
-LinkedIn: [https://www.linkedin.com/in/jainlakshit](https://www.linkedin.com/in/jainlakshit)
+**Author:** Anuj Banerjee
+LinkedIn: [https://www.linkedin.com/in/anuj-banerjee/](https://www.linkedin.com/in/anuj-banerjee/)
 
 ---
 
