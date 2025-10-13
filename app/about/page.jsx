@@ -101,7 +101,7 @@ export default function AboutPage() {
 
               <Button variant="outline" asChild>
                 <Link
-                  href="https://github.com/lakshitcodes/smart-split"
+                  href="https://github.com/Anuj-Banerjee/SplitWise"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -113,7 +113,7 @@ export default function AboutPage() {
 
               <Button variant="ghost" asChild>
                 <Link
-                  href="https://www.linkedin.com/in/jainlakshit"
+                  href="https://www.linkedin.com/in/anuj-banerjee/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -515,7 +515,7 @@ export default function AboutPage() {
               <div className="flex flex-wrap gap-3">
                 <Button asChild>
                   <Link
-                    href="https://github.com/lakshitcodes/smart-split"
+                    href="https://github.com/Anuj-Banerjee/SplitWise"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -527,7 +527,7 @@ export default function AboutPage() {
 
                 <Button variant="outline" asChild>
                   <Link
-                    href="https://www.linkedin.com/in/jainlakshit"
+                    href="https://www.linkedin.com/in/anuj-banerjee/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -539,7 +539,7 @@ export default function AboutPage() {
 
                 <Button variant="ghost" asChild>
                   <a
-                    href="mailto:jainlakshit849@gmail.com"
+                    href="mailto:anujbanerjee007@gmail.com"
                     className="flex items-center gap-2"
                   >
                     <ExternalLink className="h-4 w-4" /> Email
