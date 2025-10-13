@@ -13,7 +13,7 @@ export default function Footer({ onInvite }) {
           <div className="min-w-1/3 text-sm text-muted-foreground flex items-center justify-center md:justify-start">
             <span>
               Made with <span className="text-red-500">❤️</span> by{" "}
-              <span className="font-medium">Lakshit Jain</span>
+              <span className="font-medium">Anuj Banerjee</span>
             </span>
           </div>
 
@@ -42,7 +42,7 @@ export default function Footer({ onInvite }) {
             </div>
             <div className=" flex gap-3">
               <a
-                href="https://www.linkedin.com/in/jainlakshit/"
+                href="https://www.linkedin.com/in/anuj-banerjee/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"
@@ -52,7 +52,7 @@ export default function Footer({ onInvite }) {
               </a>
 
               <a
-                href="https://github.com/lakshitcodes/smart-split"
+                href="https://github.com/Anuj-Banerjee/SplitWise"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHub"
@@ -74,7 +74,7 @@ export default function Footer({ onInvite }) {
 
         {/* Bottom small text */}
         <div className="mt-4 text-center text-xs text-muted-foreground">
-          © {new Date().getFullYear()} — built by Lakshit Jain. All rights
+          © {new Date().getFullYear()} — built by Anuj Banerjee. All rights
           reserved.
         </div>
       </div>
