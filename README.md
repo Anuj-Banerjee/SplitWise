@@ -3,7 +3,7 @@
 **AI-powered, real-time expense & settlement platform for groups and individuals.**
 Keep shared spending tidy: clean net balances, directional settlements, automated reminders and AI monthly insights.
 
-[🌐 Live Demo](https://smartsplit-lakshit.vercel.app) • [License](#license) • [LinkedIn](https://www.linkedin.com/in/anuj-banerjee/)
+[🌐 Live Demo](https://fairup-anuj.vercel.app/) • [License](#license) • [LinkedIn](https://www.linkedin.com/in/anuj-banerjee/)
 
 ---
 
@@ -175,7 +175,7 @@ EMAIL_SMTP_PORT=587
 EMAIL_SMTP_USER=notifications@yourdomain.com
 EMAIL_SMTP_PASS=your_smtp_password
 EMAIL_FROM="SmartSplit Alerts <notifications@yourdomain.com>"
-APP_BASE_URL=https://smartsplit-lakshit.vercel.app
+APP_BASE_URL=https://fairup-anuj.vercel.app/
 ```
 
 > Use a dedicated sending mailbox and configure SPF/DKIM for deliverability.
